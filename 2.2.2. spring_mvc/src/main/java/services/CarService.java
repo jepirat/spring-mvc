@@ -12,7 +12,7 @@ public class CarService {
         List<Car> cars = new ArrayList<>();
         cars.add(new Car("Toyota", "200", "red"));
         cars.add(new Car("Ferrari", "250", "blue"));
-        cars.add(new Car("Волга", "120", ",белая"));
+        cars.add(new Car("Волга", "120", "белая"));
         cars.add(new Car("Москвич", "120", "синий"));
         cars.add(new Car("Запорожец", "120", "красный"));
         if (quality != null) {
